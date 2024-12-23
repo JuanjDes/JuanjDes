@@ -11,5 +11,5 @@
 |                                                                  | <p align = "center"> [Ver Dashboard](https://juanjdes.github.io/project-break-dashboard/) </p> |
 | [BANDERAS](https://github.com/JuanjDes/diversion-con-banderas) | Utiliza la API de REST Countries para obtener información sobre países y mostrarla en una interfaz de usuario |
 |                                                                    | <p align = "center"> [Ver Banderas](https://juanjdes.github.io/diversion-con-banderas/) </p> |
-|[POKEMON](https://github.com/JuanjDes/select-pokemon) |  API Fetch en JavaScript para obtener información sobre Pokémon y mostrarla. |
-|                                                      | <p align = "center">[Ver Pokemon](https://juanjdes.github.io/select-pokemon/) </p> |
+|[POKEMON](https://github.com/JuanjDes/fetch-async-await) |  Pokédex básica. La Pokédex mostrará una lista de Pokémon obtenidos de la API pública de Pokémon. Los usuarios podrán navegar entre las páginas de Pokémon, buscar Pokémon específicos y ver detalles básicos de cada uno. |
+|                                                      | <p align = "center">[Ver Pokemon](https://juanjdes.github.io/fetch-async-await/) </p> |
