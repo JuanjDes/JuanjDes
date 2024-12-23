@@ -1,4 +1,4 @@
-<h1 align = "center" style = "color: orange;">Aprendiendo HTML, CSS, JavaScript y Java</h1>
+<h1 align = "center"><font color = "orange">Aprendiendo HTML, CSS, JavaScript y Java</font></h1>
 
 
 <h4 align = "center">REPOSITORIOS DESTACADOS</h4>
