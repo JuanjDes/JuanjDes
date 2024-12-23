@@ -1,7 +1,7 @@
-<h1 align = "center" style = "color: orange;">Aprendiendo HTML, CSS, JavaScript y Java</h1>
+<h1 align = "center" style = "color:orange;">Aprendiendo HTML, CSS, JavaScript y Java</h1>
 
 
-### REPOSITORIOS:
+<h3>REPOSITORIOS DESTACADOS</h3>
 
 | Enlace        | Descripción                          |
 |---------------|--------------------------------------|
