@@ -13,4 +13,4 @@
 |                                                                    | <p align = "center"> [Ver Banderas](https://juanjdes.github.io/diversion-con-banderas/) </p> |
 |[Pokemon](https://github.com/JuanjDes/fetch-async-await) |  Pokédex básica. La Pokédex mostrará una lista de Pokémon obtenidos de la API pública de Pokémon. Los usuarios podrán navegar entre las páginas de Pokémon, buscar Pokémon específicos y ver detalles básicos de cada uno. |
 |                                                      | <p align = "center">[Ver Pokemon](https://juanjdes.github.io/fetch-async-await/) </p> |
-|[React](https://github.com/JuanjDes/ejercicio-useState)| Modificar lista de nombres usando useState con React: [Ver](https://juanjdes.github.io/ejercicio-useState)|
+|[React](https://github.com/JuanjDes/ejercicio-useState)| Modificar lista de nombres usando useState con React:[ Ver](https://juanjdes.github.io/ejercicio-useState)|
