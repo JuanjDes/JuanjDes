@@ -14,14 +14,14 @@
     <th style="text-align: left;">Descripción</th>
   </tr>
   <tr>
-    <td style="text-align:center;">
+    <td style="align:center;">
       <img src="https://img.icons8.com/color/48/000000/boot.png"/><br>
       <a href="https://github.com/JuanjDes/BootC">Bootc</a>
     </td>
     <td><font color="#1E90FF">Ejercicios y pruebas del OpenBootCamp</font></td>
   </tr>
   <tr>
-    <td style="text-align:center;">
+    <td style="align:center;">
       <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><br>
       <a href="https://github.com/JuanjDes/Solved_exercises">Java</a>
     </td>
