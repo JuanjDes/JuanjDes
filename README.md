@@ -14,14 +14,17 @@
     <th style="text-align: left;">Descripción</th>
   </tr>
   <tr>
-    <td style="text-align: center;">
-      <a href="https://github.com/JuanjDes/BootC"/><br>
-      <img src="https://img.icons8.com/color/48/000000/boot.png" style="vertical-align: middle;"/> Bootc</a>
+    <td style="text-align:center;">
+      <img src="https://img.icons8.com/color/48/000000/boot.png"/><br>
+      <a href="https://github.com/JuanjDes/BootC">Bootc</a>
     </td>
     <td><font color="#1E90FF">Ejercicios y pruebas del OpenBootCamp</font></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/JuanjDes/Solved_exercises"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" style="vertical-align: middle;"/> Java</a></td>
+    <td style="text-align:center;">
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><br>
+      <a href="https://github.com/JuanjDes/Solved_exercises">Java</a>
+    </td>
     <td><font color="#32CD32">Diferentes ejercicios en Java</font></td>
   </tr>
   <tr>
