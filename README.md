@@ -1,8 +1,15 @@
+<!--
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width="50px" height="50px">
   <font face="Courier New" color="#00FF00">Web Developer Full Stack Junior</font>
   <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width="50px" height="50px">
 </h1>
+-->
+
+<!-- Banner Retro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=Bienvenido+a+mi+mundo+retro+%F0%9F%8E%AE;Full+Stack+Web+Developer;Amante+de+la+inform%C3%A1tica+de+los+80s+y+90s" alt="Typing SVG" />
+</p>
 
 <h4 align="center">
   <font face="Courier New" color="#FF4500">REPOSITORIOS DESTACADOS</font>
