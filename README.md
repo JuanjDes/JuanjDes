@@ -10,11 +10,14 @@
 
 <table align="center" style="width: 100%;">
   <tr>
-    <th style="width: 50%; text-align: left;">Enlace</th>
-    <th style="width: 50%; text-align: left;">Descripción</th>
+    <th style="text-align: left;">Enlace</th>
+    <th style="text-align: left;">Descripción</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/JuanjDes/BootC"><img src="https://img.icons8.com/color/48/000000/boot.png" style="vertical-align: middle;"/> Bootc</a></td>
+    <td style="text-align: center;">
+      <a href="https://github.com/JuanjDes/BootC"/><br>
+      <img src="https://img.icons8.com/color/48/000000/boot.png" style="vertical-align: middle;"/> Bootc</a>
+    </td>
     <td><font color="#1E90FF">Ejercicios y pruebas del OpenBootCamp</font></td>
   </tr>
   <tr>
