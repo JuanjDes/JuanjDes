@@ -11,3 +11,4 @@
 | [Banderas](https://github.com/JuanjDes/diversion-con-banderas) | API de REST Countries para obtener información sobre países y mostrarla en una interfaz de usuario.... [Ver Banderas](https://juanjdes.github.io/diversion-con-banderas/)|
 |[Pokemon](https://github.com/JuanjDes/fetch-async-await) |  Pokédex básica. La Pokédex mostrará una lista de Pokémon obtenidos de la API pública de Pokémon. Los usuarios podrán navegar entre las páginas de Pokémon, buscar Pokémon específicos y ver detalles básicos.... [Ver Pokemon](https://juanjdes.github.io/fetch-async-await/)|
 |[React](https://github.com/JuanjDes/ejercicio-useState)| Modificar lista de nombres usando useState con React....[Ver App](https://juanjdes.github.io/ejercicio-useState)|
+|[Template-Scraping](https://github.com/JuanjDes/template-scraping)| Mini-Template básico para proyectos de Node + Express +ESM + Scraping |
