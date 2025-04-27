@@ -29,7 +29,7 @@
     <td align="center">
       <a href="https://github.com/JuanjDes/project-break-dashboard"><img src="https://img.icons8.com/color/48/000000/dashboard.png" alt="Dashboard"/></a>
     </td>
-    <td><font color="#FF69B4">Proyecto de Dashboard con 4 elementos (Reloj, Tiempo, Password y Links).... <a href="https://juanjdes.github.io/project-break-dashboard/" target="_blank">Ver Dashboard</a></font></td>
+    <td><font color="#FF69B4">Proyecto de Dashboard con 4 elementos (Reloj, Tiempo, Password y Links).... <a href="https://juanjdes.github.io/project-break-dashboard/">Ver Dashboard</a></font></td>
   </tr>
   <tr>
     <td align="center">
