@@ -44,5 +44,5 @@
 </table>
 
 <p align="center">
-  <img src="https://i.imgur.com/4M7IWwP.gif" width="400px">
+  <img src="https://github.com/JuanjDes/JuanjDes/blob/main/webdeveloper.jpg?raw=true" width="400px">
 </p>
