@@ -10,8 +10,8 @@
 
 <table align="center" style="width: 100%;">
   <tr>
-    <th style="text-align: left;">Enlace</th>
-    <th style="text-align: left;">Descripción</th>
+    <th style="width: 30%; text-align: center;">Enlace</th>
+    <th style="width: 30%; text-align: center;">Descripción</th>
   </tr>
   <tr>
     <td style="text-align:center;">
