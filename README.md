@@ -29,25 +29,25 @@
     <td align="center">
       <a href="https://github.com/JuanjDes/project-break-dashboard"><img src="https://img.icons8.com/color/48/000000/dashboard.png" alt="Dashboard"/></a>
     </td>
-    <td><font color="#FF69B4">Proyecto de Dashboard con 4 elementos (Reloj, Tiempo, Password y Links).... <a href="https://juanjdes.github.io/project-break-dashboard/">Ver Dashboard</a></font></td>
+    <td><font color="#FF69B4">Proyecto de Dashboard con 4 elementos (Reloj, Tiempo, Password y Links).... <a href="https://juanjdes.github.io/project-break-dashboard/">Ver Web</a></font></td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/JuanjDes/diversion-con-banderas"><img src="https://img.icons8.com/color/48/000000/flag.png" alt="Banderas"/></a>
     </td>
-    <td><font color="#FFD700">API de REST Countries para obtener información sobre países y mostrarla en una interfaz de usuario.... <a href="https://juanjdes.github.io/diversion-con-banderas/">Ver Banderas</a></font></td>
+    <td><font color="#FFD700">API de REST Countries para obtener información sobre países y mostrarla en una interfaz de usuario.... <a href="https://juanjdes.github.io/diversion-con-banderas/">Ver Web</a></font></td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/JuanjDes/fetch-async-await"><img src="https://img.icons8.com/color/48/000000/pokemon.png" alt="Pokemon"/></a>
     </td>
-    <td><font color="#FF6347">Pokédex básica. La Pokédex mostrará una lista de Pokémon obtenidos de la API pública de Pokémon. Los usuarios podrán navegar entre las páginas de Pokémon, buscar Pokémon específicos y ver detalles básicos.... <a href="https://juanjdes.github.io/fetch-async-await/">Ver Pokemon</a></font></td>
+    <td><font color="#FF6347">Pokédex básica. La Pokédex mostrará una lista de Pokémon obtenidos de la API pública de Pokémon. Los usuarios podrán navegar entre las páginas de Pokémon, buscar Pokémon específicos y ver detalles básicos.... <a href="https://juanjdes.github.io/fetch-async-await/">Ver Web</a></font></td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/JuanjDes/ejercicio-useState"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
     </td>
-    <td><font color="#4169E1">Modificar lista de nombres usando useState con React.... <a href="https://juanjdes.github.io/ejercicio-useState">Ver App</a></font></td>
+    <td><font color="#4169E1">Modificar lista de nombres usando useState con React.... <a href="https://juanjdes.github.io/ejercicio-useState">Ver Web</a></font></td>
   </tr>
   <tr>
     <td align="center">
