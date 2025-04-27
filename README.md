@@ -10,8 +10,8 @@
 
 <table align="center" style="width: 100%;">
   <colgroup>
-    <col style="width: 30%;">
-    <col style="width: 70%;">
+    <col style="width: 40%;">
+    <col style="width: 60%;">
   </colgroup>
   <tr>
     <th style="text-align: left;">Enlace</th>
