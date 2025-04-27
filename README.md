@@ -8,7 +8,7 @@
 
 <!-- Banner Retro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=Bienvenido+a+mi+mundo+retro+%F0%9F%8E%AE;Full+Stack+Web+Developer;Amante+de+la+inform%C3%A1tica+de+los+80s+y+90s" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=600&lines=Bienvenid@+a+mi+mundo+retro+%F0%9F%8E%AE;Full+Stack+Web+Developer;Amante+de+la+inform%C3%A1tica+de+los+80s+y+90s" alt="Typing SVG" />
 </p>
 
 <h4 align="center">
