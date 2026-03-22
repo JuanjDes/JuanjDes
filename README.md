@@ -17,7 +17,7 @@
 
 <table align="center" style="width:100%;">
   <tr>
-    <th style="width:20%; text-align:center;">Enlace</th>
+    <th style="width:20%; text-align:center;">Repos</th>
     <th style="width:80%; text-align:left;">Descripción</th>
   </tr>
   <tr>
