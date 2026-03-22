@@ -26,7 +26,7 @@
         <img src="https://github.com/JuanjDes/Precios_Gasolineras/blob/main/img/iconoGasolinera.png" width="80" height="80"/>
       </a>
     </td>
-    <td><font color="#1E90FF">Precios en tiempo real de Gasolineras en España</font></td>
+    <td><font color="#1E90FF">Precios en tiempo real de Gasolineras en España....<a href="https://juanjdes.github.io/Precios_Gasolineras/">Ver Web</a></font></td>
   </tr>
   <tr>
     <td align="center">
