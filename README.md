@@ -26,6 +26,49 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&background=000000&width=1001&lines=%F0%9F%8E%AE+Bienvenid@+a+mi+mundo+retro+%F0%9F%8E%AE;Escribo+lineas+de+codigo+como+antes+se+escribian+lineas+de+comandos+:+;con+pasion+,+con+ingenio+,+y+a+veces+.+.+.+con+magia" alt="Typing SVG" />
 </p> -->
 
+
+---
+
+## ⚡ BARRA DE ENERGÍA
+
+```text
+⚡ Energía      ████████░░ 80%
+
+☕ Café         ██████████ 100%
+
+🟨 JavaScript  ████████░░ 80%
+
+🟩 Node.js     ███████░░░ 70%
+
+🐧 Linux       ████████░░ 85%
+
+🤖 Arduino     ██████░░░░ 60%
+
+🧠 IA Local    █████░░░░░ 50%
+```
+
+---
+
+## 🎯 MISIONES ACTIVAS
+
+```text
+[✓] Mejorar como desarrollador Full Stack
+
+[✓] Crear herramientas útiles para problemas reales
+
+[✓] Explorar Inteligencia Artificial Local
+
+[✓] Automatizar procesos y tareas repetitivas
+
+[ ] Subir al siguiente nivel profesional
+```
+
+---
+
+
+
+
+
 <h4 align="center">
   <font face="Courier New" color="#FF4500">REPOSITORIOS DESTACADOS</font>
 </h4>
