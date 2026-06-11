@@ -63,13 +63,7 @@
     </td>
     <td><font color="#FF69B4">Proyecto de Dashboard con 4 elementos (Reloj, Tiempo, Password y Links).... <a href="https://juanjdes.github.io/project-break-dashboard/">Ver Web</a></font></td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/JuanjDes/diversion-con-banderas"><img src="https://img.icons8.com/color/48/000000/flag.png" alt="Banderas"/></a>
-    </td>
-    <td><font color="#FFD700">API de REST Countries para obtener información sobre países y mostrarla en una interfaz de usuario.... 
-      <!--<a href="https://juanjdes.github.io/diversion-con-banderas/">Ver Web</a><!--></font></td>
-  </tr>
+  
   <tr>
     <td align="center">
       <a href="https://github.com/JuanjDes/fetch-async-await"><img src="https://img.icons8.com/color/48/000000/pokemon.png" alt="Pokemon"/></a>
