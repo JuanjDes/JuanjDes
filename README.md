@@ -11,11 +11,19 @@
   <img src="Banner.png" alt="JUANJO.OS Banner" width="100%">
 </p>
 
+<div align="center">
 
-<!-- Banner Retro -->
+# ⚡ JUANJO.OS v48.0
+
+### 🚚 Electrical Vehicle Command Center
+
+</div>
+
+
+<!-- Banner Retro 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&background=000000&width=1001&lines=%F0%9F%8E%AE+Bienvenid@+a+mi+mundo+retro+%F0%9F%8E%AE;Escribo+lineas+de+codigo+como+antes+se+escribian+lineas+de+comandos+:+;con+pasion+,+con+ingenio+,+y+a+veces+.+.+.+con+magia" alt="Typing SVG" />
-</p>
+</p> -->
 
 <h4 align="center">
   <font face="Courier New" color="#FF4500">REPOSITORIOS DESTACADOS</font>
