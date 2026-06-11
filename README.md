@@ -84,6 +84,38 @@
   </tr>
 </table>
 
+</br>
+<h4 align="center">
+  <font face="Courier New" color="#FF4500">📊 TELEMETRÍA DEL SISTEMA</font>
+</h4>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanjDes&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanjDes&layout=compact&theme=dark" />
+</p>
+
+</br>
+
+<div align="center">
+
+#### 📡 TRANSMISIÓN FINAL
+
+```diff
++ SISTEMA ONLINE
+
++ Si has llegado hasta aquí...
+
++ LOGRO DESBLOQUEADO:
++ EXPLORADOR DE REPOSITORIOS
+
+- Próxima misión:
+- Seguir aprendiendo.
+
++ JUANJO.OS FINALIZADO CORRECTAMENTE
+```
+
+</div>
+
 <p align="center">
   <img src="https://github.com/JuanjDes/JuanjDes/blob/main/webdeveloper.jpg?raw=true" width="400px">
 </p>
