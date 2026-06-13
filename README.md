@@ -8,7 +8,7 @@
 
 <!-- Banner Principal -->
 <p align="center">
-  <img src="Banner_2.png" alt="JUANJO.OS Banner" width="100%">
+  <img src="Banner_3.png" alt="JuanjDes Banner" width="100%">
 </p>
 
 
