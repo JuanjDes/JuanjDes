@@ -79,20 +79,36 @@
     <td align="center">
       <a href="https://github.com/JuanjDes/project-break-dashboard"><img src="https://img.icons8.com/color/48/000000/dashboard.png" alt="Dashboard"/></a>
     </td>
-    <td align="center"><font color="#FF69B4">Proyecto de Dashboard con 4 elementos (Reloj, Tiempo, Password y Links).... <a href="https://juanjdes.github.io/project-break-dashboard/">Ver Web</a></font></td>
+    <td align="center">
+      <font color="#FF69B4">Proyecto de Dashboard con 4 elementos (Reloj, Tiempo, Password y Links)....
+        </br>
+        <a href="https://juanjdes.github.io/project-break-dashboard/">Ver Web</a>
+      </font>
+    </td>
   </tr>
   
   <tr>
     <td align="center">
       <a href="https://github.com/JuanjDes/fetch-async-await"><img src="https://img.icons8.com/color/48/000000/pokemon.png" alt="Pokemon"/></a>
     </td>
-    <td align="center"><font color="#FF6347">Pokédex básica. La Pokédex mostrará una lista de Pokémon obtenidos de la API pública de Pokémon. Los usuarios podrán navegar entre las páginas de Pokémon, buscar Pokémon específicos y ver detalles básicos.... <a href="https://juanjdes.github.io/fetch-async-await/">Ver Web</a></font></td>
+    <td align="center">
+      <font color="#FF6347">Pokédex básica. La Pokédex mostrará una lista de Pokémon obtenidos de la API pública de Pokémon. Los usuarios podrán navegar entre las
+        páginas de Pokémon, buscar Pokémon específicos y ver detalles básicos....
+        </br>
+        <a href="https://juanjdes.github.io/fetch-async-await/">Ver Web</a>
+      </font>
+    </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/JuanjDes/ejercicio-useState"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
     </td>
-    <td align="center"><font color="#4169E1">Modificar lista de nombres usando useState con React.... <a href="https://juanjdes.github.io/ejercicio-useState">Ver Web</a></font></td>
+    <td align="center">
+      <font color="#4169E1">Modificar lista de nombres usando useState con React....
+        </br>
+        <a href="https://juanjdes.github.io/ejercicio-useState">Ver Web</a>
+      </font>
+    </td>
   </tr>
   <tr>
     <td align="center">
