@@ -18,24 +18,50 @@
 </p> -->
 
 
-
-<h3 align="center">
-  <font face="Courier New" color="#FF4500">REPOSITORIOS DESTACADOS</font>
-</h3>
-
 <table align="center" style="width:100%;">
   <!--
   <tr>
     <th style="width:20%; text-align:center;">Repos</th>
     <th style="width:80%; text-align:left;">Descripción</th>
   </tr> -->
+
+  <tr>
+    <td align="center" width="80" height="80"></td>
+    <td align="center">
+      <h3 align="center">
+        <font face="Courier New">REPOSITORIOS DESTACADOS</font>
+      </h3>
+    </td>
+  </tr>
+
+
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JuanjDes/RechargeEV">
+        <img src="https://github.com/JuanjDes/RechargeEV/blob/main/RecargaEV.png" width="80" height="80"/>
+      </a>
+    </td>
+    <td align="center">
+      <font color="#1E90FF">Lleva el control de vehículos eléctricos pendientes de cargar. Incluye mapa con la posición de cada vehículo
+        </br>
+        <a href="https://juanjdes.github.io/RechargeEV/"> Ver Web</a>
+      </font>
+    </td>
+  </tr>
+
+  
   <tr>
     <td align="center">
       <a href="https://github.com/JuanjDes/Precios_Gasolineras">
         <img src="https://github.com/JuanjDes/Precios_Gasolineras/blob/main/img/iconoGasolinera.png" width="80" height="80"/>
       </a>
     </td>
-    <td align="center"><font color="#1E90FF">Precios en tiempo real de Gasolineras en España.... <a href="https://juanjdes.github.io/Precios_Gasolineras/"> Ver Web</a></font></td>
+    <td align="center">
+      <font color="#1E90FF">Precios en tiempo real de Gasolineras en España.... 
+        </br>
+        <a href="https://juanjdes.github.io/Precios_Gasolineras/"> Ver Web
+      </a></font></td>
   </tr>
   <tr>
     <td align="center">
