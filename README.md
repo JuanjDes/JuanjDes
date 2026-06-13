@@ -65,19 +65,23 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/JuanjDes/BootC"><img src="https://img.icons8.com/color/48/000000/boot.png" alt="Bootc"/></a>
+      <a href="https://github.com/JuanjDes/BootC"><img src="https://github.com/JuanjDes/BootC/blob/main/openBootCamp.png" alt="Bootc" width="80" height="80"/></a>
     </td>
     <td align="center"><font color="#1E90FF">Ejercicios y pruebas del OpenBootCamp</font></td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/JuanjDes/Solved_exercises"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/></a>
+      <a href="https://github.com/JuanjDes/Solved_exercises">
+        <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="80" height="80"/>
+      </a>
     </td>
     <td align="center"><font color="#32CD32">Diferentes ejercicios en Java</font></td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/JuanjDes/project-break-dashboard"><img src="https://img.icons8.com/color/48/000000/dashboard.png" alt="Dashboard"/></a>
+      <a href="https://github.com/JuanjDes/project-break-dashboard">
+        <img src="https://img.icons8.com/color/48/000000/dashboard.png" alt="Dashboard" width="80" height="80"/>
+      </a>
     </td>
     <td align="center">
       <font color="#FF69B4">Proyecto de Dashboard con 4 elementos (Reloj, Tiempo, Password y Links)....
@@ -89,7 +93,9 @@
   
   <tr>
     <td align="center">
-      <a href="https://github.com/JuanjDes/fetch-async-await"><img src="https://img.icons8.com/color/48/000000/pokemon.png" alt="Pokemon"/></a>
+      <a href="https://github.com/JuanjDes/fetch-async-await">
+        <img src="https://img.icons8.com/color/48/000000/pokemon.png" alt="Pokemon" width="80" height="80"/>
+      </a>
     </td>
     <td align="center">
       <font color="#FF6347">Pokédex básica. La Pokédex mostrará una lista de Pokémon obtenidos de la API pública de Pokémon. Los usuarios podrán navegar entre las
@@ -101,7 +107,9 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/JuanjDes/ejercicio-useState"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
+      <a href="https://github.com/JuanjDes/ejercicio-useState">
+        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="80" height="80"/>
+      </a>
     </td>
     <td align="center">
       <font color="#4169E1">Modificar lista de nombres usando useState con React....
@@ -112,7 +120,9 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/JuanjDes/template-scraping"><img src="https://img.icons8.com/color/48/000000/web-scraper.png" alt="Template-Scraping"/></a>
+      <a href="https://github.com/JuanjDes/template-scraping">
+        <img src="https://img.icons8.com/color/48/000000/web-scraper.png" alt="Template-Scraping" width="80" height="80"/>
+      </a>
     </td>
     <td align="center"><font color="#8A2BE2">Mini-Template básico para proyectos de Node + Express +ESM + Scraping</font></td>
   </tr>
